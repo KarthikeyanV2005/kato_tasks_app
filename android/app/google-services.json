@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "280313492350",
+    "project_id": "katotasksapp",
+    "storage_bucket": "katotasksapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280313492350:android:2057565892a7c19162b92f",
+        "android_client_info": {
+          "package_name": "com.example.kato_tasks_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280313492350-no746k9qnlqnbj5cru3bvb13nv3561pb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3TNJDYKL7LSLi_dKqff3IMNM6lPgLKdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280313492350-no746k9qnlqnbj5cru3bvb13nv3561pb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "280313492350-eng55noqqsamp19a2t3er1httddsdcqn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.katoTasksApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
