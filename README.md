@@ -4,6 +4,12 @@ Kato Tasks App is a beautifully designed Flutter-based Todo Task Manager. It sup
 
 ---
 
+## 📱 Download APK
+
+👉 [Click here to download the latest APK](apk/app-release.apk)
+
+---
+
 ## 🚀 Features
 
 - 🔐 Google Sign-In (Firebase Authentication)
